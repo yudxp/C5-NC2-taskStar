@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		152044CC288FD67600017C03 /* CircularProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 152044CB288FD67600017C03 /* CircularProgressBar.swift */; };
 		15B4386828891FAB00D56389 /* Focus_StarApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15B4386728891FAB00D56389 /* Focus_StarApp.swift */; };
 		15B4386A28891FAB00D56389 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15B4386928891FAB00D56389 /* ContentView.swift */; };
 		15B4386C28891FAD00D56389 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15B4386B28891FAD00D56389 /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		152044CB288FD67600017C03 /* CircularProgressBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularProgressBar.swift; sourceTree = "<group>"; };
 		15B4386428891FAB00D56389 /* Focus Star.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Focus Star.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		15B4386728891FAB00D56389 /* Focus_StarApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Focus_StarApp.swift; sourceTree = "<group>"; };
 		15B4386928891FAB00D56389 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 		15B4386628891FAB00D56389 /* Focus Star */ = {
 			isa = PBXGroup;
 			children = (
+				152044CB288FD67600017C03 /* CircularProgressBar.swift */,
 				15B4387A28894F2600D56389 /* TargetView.swift */,
 				15B4386728891FAB00D56389 /* Focus_StarApp.swift */,
 				15B4386928891FAB00D56389 /* ContentView.swift */,
@@ -151,6 +154,7 @@
 				15B4386A28891FAB00D56389 /* ContentView.swift in Sources */,
 				15B4387B28894F2600D56389 /* TargetView.swift in Sources */,
 				15B4386828891FAB00D56389 /* Focus_StarApp.swift in Sources */,
+				152044CC288FD67600017C03 /* CircularProgressBar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
